@@ -10,4 +10,4 @@ Instructions
 * You would receive an array as an input
 * Return the result after peforming the desired operation
 
-Run ```npm run test:file play_with_array``` to test your code
+Run ````npm run test:file play_with_array`` to test your code
