@@ -1,4 +1,4 @@
-# 10x Academy JavaScript Assignments
+# JavaScript Tutorials
 
 ## Curated list of JavaScript Assignments to make you familiar with the concepts of the language
 
